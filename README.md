@@ -1,7 +1,7 @@
 # extractPupil
 Matlab functions to identify/extract the pupil parameters in a video file 
 
-![alt text] (https://github.com/DrCarbonCIMH/extractPupil/blob/main/doc/pupil_example_frame.png)
+![alt text](https://github.com/DrCarbonCIMH/extractPupil/blob/main/doc/pupil_example_frame.png)
 
 It uses a pulse-coupled neural network (PCNN) to identify and extract the pupil frame by frame
 "Main functions" are:
