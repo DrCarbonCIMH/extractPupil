@@ -4,7 +4,7 @@ Matlab functions to identify/extract the pupil parameters in a video file
 It uses a pulse-coupled neural network (PCNN) to identify and extract the pupil frame by frame
 "Main functions" are:
 - ms_preprocIMG: for a quick preprocessing of a frame
-- ms_findPup_rb: identifying and parameter estimation of pupil
+- ms_findPup_rb: identifying and parameter estimation of pupil (center, radius, ..)
 - ms_plotPup_rb: for plotting of found pupil
 
 For an example run "pipeline_example.m" in the example folder
