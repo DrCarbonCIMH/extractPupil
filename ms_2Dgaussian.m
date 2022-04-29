@@ -1,5 +1,5 @@
 function [ h ] = ms_2Dgaussian( r, sc, sigma )
-%MS_3DGAUSSIAN Summary of this function goes here
+%MS_2DGAUSSIAN Summary of this function goes here
 %   Detailed explanation goes here
 if nargin<1; r=3; end
 if nargin<2; sc=[1 1]; end

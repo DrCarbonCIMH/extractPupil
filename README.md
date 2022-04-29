@@ -17,7 +17,7 @@ You probably have to adapt some parameters for your used hardware, video files, 
 When using this code, please cite: 
 [CIT]
 
-The "pipeline function ExtractPupil_LW_4NatCom" used in the paper [CIT] can be found in "pipeline_usedInPaper"
+The "pipeline function ExtractPupil_LW_4natcomm" used in the paper [CIT] can be found in "pipeline_usedInPaper"
 
 Written at the Central Institute of Mental Health (CIMH), Mannheim, Germany
 by Markus Sack, Robert Becker, and Laurens Winkelmeier; RG Translational Imaging, Department Neuroimaging

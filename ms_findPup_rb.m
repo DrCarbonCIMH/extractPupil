@@ -1,4 +1,4 @@
-function [s_old] = ms_findPup(img, Spre)
+function [s_old] = ms_findPup_rb(img, Spre)
 %MS_FINDPUP Summary of this function goes here
 %   Detailed explanation goes here
 verb=1; ToSkip=1; 
